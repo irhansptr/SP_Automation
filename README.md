@@ -4,4 +4,4 @@ Chrome profile
 
 
 <h2><b>Contact us:</b></h2>
-httsp://irhanspt@github.io
+https://irhansptr.github.io
